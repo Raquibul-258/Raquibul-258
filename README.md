@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raquibul-258
 - 👀 I’m interested in Java Scrpt, Java+, Python 
-- 🌱 I’m currently learning HTML, CSS
+- 🌱 I’m expert in WorPress, HTML, CSS
 - 💞️ I’m looking to collaborate on Front End development
 - 📫 How to reach me
 - Email me: mrh258@live.se
