@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Raquibul-258
-- 👀 I’m interested in Java Scrpt, Java+, Python 
+- 👀 I’m interested in MS Power BI, SQL, Java Scrpt, Python 
 - 🌱 I’m expert in WorPress, HTML, CSS & Bootstrap
 - 💞️ I’m looking to collaborate on Front End development
 - 📫 How to reach me
